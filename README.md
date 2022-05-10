@@ -6,7 +6,7 @@
 
 3. To apply this model on an Image, python3 mask-detector-image.py -i [path of image]
 
-4. To apply this model on an Vide, python3 mask-detector-video.py -v [path of Video]
+4. To apply this model on an Video, python3 mask-detector-video.py -v [path of Video]
 
 #### COMMENTS:
 
