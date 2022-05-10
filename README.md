@@ -10,6 +10,7 @@
 
 #### COMMENTS:
 
-We have an accuracy of ~99% which is quite good. The model is able to detect if a person is wearing a face mask or not when the image has less number of people.
-This model could further be improved by retraining it on a much wider dataset and with more epochs.
+
+Model needs to be generalized for real life scenarios as it fails to detect masks when more number of faces are present in the image
+
 Due to Hardware limitiations this model was trained only for 30 epochs.
